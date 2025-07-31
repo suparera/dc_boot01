@@ -1,5 +1,5 @@
 {
-  "image": "bellsoft/liberica-runtime-container:jdk-17-latest",
+  "image": "bellsoft/liberica-runtime-container:jdk-all-21-cds-musl",
   "customizations": {
     "vscode": {
       "extensions": [ "vscjava.vscode-java-pack" ]
